@@ -19,8 +19,8 @@ I am a developer and researcher who is passionate about "Embodied AI", "Reinforc
 - **Mixed Reality Based Teleoperation System For Prefabricated Building Assembly**: Explore the assistance of a VR-based mixed reality control system for robotic arms in prefabricated buildings.
 
 #### 💻 Applications & Development
-- **[MindGuard](链接到你的仓库)**: 一款使用 Swift/Objective-C 开发的 macOS 效率应用，旨在帮助用户监控和限制在娱乐应用（如 TikTok）上的屏幕时间，提升专注力。
-- **[Unity 游戏/互动项目](链接到你的仓库)**: 基于 Unity 引擎开发的互动体验/游戏项目，结合了对复杂系统和交互设计的理解。
+- **[MindGuard](https://github.com/lemonhamburger05/MindGuard)**: A macOS efficiency app developed with Swift/Objective-C, designed to help users monitor and limit screen time on entertainment apps such as TikTok, enhancing their concentration.
+- **[Unity Game/The Corner(developing)]**: An interactive experience/game project developed based on the Unity engine, with the theme of dream narrative and dual perspectives.
 
 ### 💻 Tech Stack
 - **AI & Data Science:** Machine Learning, Reinforcement Learning, NLP (Natural Language Processing)
